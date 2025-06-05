@@ -1,28 +1,56 @@
-# FingerSprint Typing Analyzer 🚀
+<h1 align="center">⌨️ Typing-Speed-Analyzer</h1>
+<p align="center">Boost your typing skills, test your WPM, and challenge your friends — all in the terminal!</p>
 
-**Enhanced Version 2.0** - A powerful typing speed analyzer with improved features and interactivity
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Platform-Terminal-lightgrey?style=flat-square" />
+  <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square" />
+</p>
 
-## What's New in Version 2.0 ✨
+---
 
-### Major Improvements:
-- 🎨 **Complete visual overhaul** with animations and better color schemes
-- 🕹️ **Interactive menu system** with arrow key navigation
-- 🏆 **Difficulty levels** (Easy/Medium/Hard) with paragraph length adjustment
-- 📊 **Enhanced statistics** showing both Net WPM (accuracy-adjusted) and Gross WPM
-- 📱 **Better text wrapping** for different screen sizes
-- ⏱️ **Real-time cursor position** indicator
-- 🏅 **Improved leaderboard** with difficulty filtering
+## 📑 Table of Contents
 
-### New Features:
-- ✏️ Name input screen with cursor
-- 🎯 Target difficulty selection
-- 📈 Detailed results breakdown
-- 🔄 Smoother screen transitions
-- 🛠️ Better error handling and recovery
+- [✨ Overview](#-overview)
+- [🚀 Features](#-features)
+- [🛠️ Installation](#️-installation)
+- [🎮 Usage](#-usage)
+- [🧪 Testing](#-testing)
+- [📄 License](#-license)
 
-### Technical Improvements:
-- 🧹 Cleaner code organization
-- ⚙️ Configuration through color constants
-- 🛡️ Backward compatibility with old score files
-- 📝 Proper text wrapping and display handling
-- 📁 Better file operations with error checking
+---
+
+## ✨ Overview
+
+**Typing-Speed-Analyzer** is a terminal-based typing speed game that helps users assess and improve their typing speed and accuracy. It's built with Python and offers an interactive CLI with difficulty levels, real-time feedback, and leaderboard comparisons.
+
+---
+
+## 🚀 Features
+
+- 🎯 **Difficulty Levels:** Easy, Medium, Hard — choose your challenge.
+- 📊 **Stats Tracking:** Net WPM, Gross WPM, Accuracy, and Score.
+- 🏆 **Leaderboard:** Compare your performance across sessions.
+- 🧠 **User Input:** Enter your name and see your rank.
+- 🖥️ **Responsive Terminal UI:** Smooth animations and better screen handling.
+- 🧼 **Clean Codebase:** Modular, commented, and easy to extend.
+
+---
+
+## 🛠️ Installation
+
+### 🔧 Prerequisites
+
+- Python 3.10 or higher
+
+### 📥 Steps
+
+```bash
+# Clone the repo
+git clone https://github.com/retarduser404/Typing-Speed-Analyzer.git
+
+# Navigate to the project directory
+cd Typing-Speed-Analyzer
+
+# Run the main script
+python tute.py
