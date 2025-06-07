@@ -300,7 +300,7 @@ def main_menu(stdscr):
             selected = max(0, selected - 1)
         elif key == 'KEY_DOWN':
             selected = min(len(options) - 1, selected + 1)
-
+#animated screen
 def main(stdscr):
     animated_start_screen(stdscr)
     main_menu(stdscr)
